@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ComputerExperiment/project0_student/project0/origin/led.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_pipe
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ComputerExperiment/project0_student/project0/origin/sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module led_test
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ComputerExperiment/project0_student/project0/project0_build/project0_build.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

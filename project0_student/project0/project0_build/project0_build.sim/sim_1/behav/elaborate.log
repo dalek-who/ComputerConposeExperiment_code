@@ -1,0 +1,15 @@
+Vivado Simulator 2016.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinx/Vivado/2016.4/bin/unwrapped/win64.o/xelab.exe -wto 707c23540c1b47b7b19264ddb712d1b1 --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot led_test_behav xil_defaultlib.led_test xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "E:/ComputerExperiment/project0_student/project0/origin/led.v" Line 7. Module led_pipe doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "E:/ComputerExperiment/project0_student/project0/origin/led.v" Line 7. Module led_pipe doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.led_pipe
+Compiling module xil_defaultlib.led_test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot led_test_behav

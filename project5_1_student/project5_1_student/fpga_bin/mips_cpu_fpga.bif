@@ -1,0 +1,4 @@
+all:
+{
+	mips_cpu_fpga.bit
+}
